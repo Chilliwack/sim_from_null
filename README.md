@@ -1,6 +1,6 @@
 # sim_from_null
 
-**sim_from_null** - demonstrates how to simulate the null hypothesis using bootstrapping
+**sim_from_null** - demonstrates via world coffee production data how to simulate the null hypothesis with bootstrapping
 
 This project was done as part of [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) program.
 
